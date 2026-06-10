@@ -33,12 +33,6 @@ https://student-score-predictor-rashu-2026.azurewebsites.net
 
 ---
 
-## Screenshot of UI
-
-### Home Page
-
-(Add Screenshot Here)
-
 ### Prediction Page
 
 <img width="938" height="499" alt="image" src="https://github.com/user-attachments/assets/da4d3c85-53a8-4b6c-9a6a-8d48cccade0e" />
