@@ -23,16 +23,6 @@ The goal of this project is to predict a student's **Math Score** based on vario
 Dataset Link:
 https://www.kaggle.com/datasets/spscientist/students-performance-in-exams
 
----
-
-## Azure Deployment Link
-
-Azure Web App Link:
-
-https://student-score-predictor-rashu-2026.azurewebsites.net
-
----
-
 ### Prediction Page
 
 <img width="938" height="499" alt="image" src="https://github.com/user-attachments/assets/da4d3c85-53a8-4b6c-9a6a-8d48cccade0e" />
